@@ -1,0 +1,12 @@
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\linq.exe.config
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\linq.exe
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\linq.pdb
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\EntityFramework.dll
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\EntityFramework.xml
+C:\Users\samuelasvanyi\source\repos\linq\linq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samuelasvanyi\source\repos\linq\linq\obj\Debug\linq.csprojAssemblyReference.cache
+C:\Users\samuelasvanyi\source\repos\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\samuelasvanyi\source\repos\linq\linq\obj\Debug\linq.csproj.CopyComplete
+C:\Users\samuelasvanyi\source\repos\linq\linq\obj\Debug\linq.exe
+C:\Users\samuelasvanyi\source\repos\linq\linq\obj\Debug\linq.pdb
